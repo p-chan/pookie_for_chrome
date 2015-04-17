@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "POOKIE for Chrome",
+  "short_name": "POOKIE",
+  "description": "a extention for pookie.",
+  "version": "0.1",
+  "icons": {
+    "19": "19.png",
+    "96": "96.png"
+  },
+  "permissions": [],
+  "browser_action": {
+    "default_title": "Save to POOKIE",
+    "default_icon": "96.png",
+    "default_popup": "popup.html"
+  }
+}
